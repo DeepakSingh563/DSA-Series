@@ -10,7 +10,7 @@ int main(){
             break;
         }
        else{
-        cout<<"prime";
+        cout<<"Prime Number";
        }
        i+=1;
     }
